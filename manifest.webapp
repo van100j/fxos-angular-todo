@@ -1,9 +1,9 @@
 {
   "name": "ToDo App",
   "description": "Test Todo app, firefox os fork of the Angular JS Todo app available at todomvc.com",
-  "launch_path": "/fxos/todo/index.html",
+  "launch_path": "/index.html",
   "icons": {
-    "128": "/fxos/todo/icons/icon_128.png"
+    "128": "/icons/icon_128.png"
   },
   "developer": {
     "name": "Vanco Stojkov",
